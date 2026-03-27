@@ -1,20 +1,14 @@
 {
-  "name": "Generador de tuits · @joventutcat",
-  "short_name": "Tuits Joventut",
-  "description": "Genera propostes de tuit per @joventutcat",
-  "start_url": "./index.html",
+  "name": "Tuits Joventut",
+  "short_name": "Tuits",
+  "start_url": "/socialmedia_tools/",
   "display": "standalone",
   "background_color": "#f5f3ee",
   "theme_color": "#d63f2e",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://fangelb.github.io/socialmedia_tools/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
       "type": "image/png"
     }
   ]
